@@ -1,0 +1,19 @@
+{
+  "name": "es-dropdown",
+  "version": "1.0.0",
+  "description": "It provides dropdown functionatily on the navigation links.",
+  "main": "./scripts/es-dropdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ndosie/es-dropdown.git"
+  },
+  "author": "Esther Ndosi <estherndosi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ndosie/es-dropdown/issues"
+  },
+  "homepage": "https://github.com/Ndosie/es-dropdown#readme"
+}
