@@ -1,8 +1,8 @@
 {
   "name": "es-dropdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It provides dropdown functionatily on the navigation links.",
-  "main": "./scripts/es-dropdown.js",
+  "main": "./es-dropdown.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
